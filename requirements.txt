@@ -1,0 +1,9 @@
+PyQt6>=6.4.0
+pyserial>=3.5
+numpy>=1.24.0
+
+# Optional — required for training mode only
+# pip install mediapipe opencv-python torch
+# mediapipe>=0.10
+# opencv-python>=4.8
+# torch>=2.0
